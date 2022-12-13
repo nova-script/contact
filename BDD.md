@@ -14,8 +14,9 @@ Customers obtain notification updates on their orders.
 
 ### FEATURE SCENARIOS:
 
-Scenario 1: Obtaining real-time notifications.
-Given that I asked for a order,
-and the Client have the product available and his restaurant is open,
-when I finish a ordering,
-then I should have notifications of current state of my order.
+**Scenario 1:** Obtaining real-time notifications.
+
+**Given that** I asked for a order,<br/>
+**and** the Client have the product available and his restaurant is open,<br/>
+**when** I finish a ordering,<br/>
+**then** I should have notifications of current state of my order.<br/>
