@@ -8,9 +8,9 @@ Customers obtain notification updates on their orders.
 
 ### FEATURE DESCRIPTION:
 
-**As an** Customer,
-**I want** to obtain notification updates from my orders,
-**So that I** can track the progress of my order.
+**As an** Customer,<br/>
+**I want** to obtain notification updates from my orders,<br/>
+**So that I** can track the progress of my order.<br/>
 
 ### FEATURE SCENARIOS:
 
